@@ -1,5 +1,5 @@
 body {
-    background-color: #ece4db;
+    background-color: #caf0f8;
     margin: 0;
     font-family: 'Roboto', verdana, sans-serif;
 }
@@ -7,11 +7,15 @@ body {
 h1{
     margin-top: 0;
     font-size: 7rem; 
+    line-height: 2;
+    color:  #0077b6;
 }
 h2{
     margin-top: 0;
     font-size: 7rem; 
     text-align: left;
+    color:  #0077b6;
+    font-weight: normal
 }
 p{
     font-family:'Merriweather', serif;
@@ -19,7 +23,7 @@ p{
     font-size: 2rem; 
 }
 div{
-    background-color: #ece4db;
+    background-color: #caf0f8;
     text-align: center;
 }
 hr{
@@ -34,6 +38,10 @@ img{
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
+}
+.skill-row{
+    display: inline-block;
+    width: 50%;
 }
 .skills-images{
     height: 100px;
