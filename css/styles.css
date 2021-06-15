@@ -9,8 +9,8 @@ body{
     transform: translate(-50%, -50%);
 }
 .main-img{
-    height: 100px;
-    width: 100px;;
+    height: 50%;
+    width: 50%;
     margin: 5px;
 }
 .tableauPlaceholder{
@@ -32,7 +32,7 @@ body{
     opacity: 0;
 
    }
-   /* Hover on Parent Container */
+/* Hover on Parent Container */
 .content_img:hover{
     cursor: pointer;
    }
