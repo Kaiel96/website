@@ -16,6 +16,10 @@ body{
     width: 50%;
     margin: 5px;
 }
+.col{
+    display: flex;
+    justify-content: center;
+}
 .tableauPlaceholder{
     height: 200px;
     width: 200px;
